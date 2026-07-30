@@ -1,0 +1,8 @@
+name = "2ffjc-blog"
+compatibility_date = "2026-07-27"    #YYYY-MM-DD
+
+[assets]
+directory = "./dist"
+
+[vars]
+NODE_VERSION = "22"

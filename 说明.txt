@@ -1,0 +1,23 @@
+# Fork后执行
+git clone
+
+# 本地调试依赖安装
+pnpm install
+
+# 启动调试
+pnpm dev
+
+# git添加配置项
+git config --global user.name "name"
+
+
+# 检测是否成功
+git config --global user.name
+git config --global user.email
+
+# 推送到github
+git add .
+git commit -m "Bug Fix"
+git push
+
+# 部署到cloudflare works & pages

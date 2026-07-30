@@ -198,7 +198,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 						external: true,
 					},
 					// 是否允许关闭广告
-					closable: false,
+					closable: true,
 					// 显示次数限制，-1为无限制
 					displayCount: -1,
 					// 组件内边距配置

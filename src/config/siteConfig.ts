@@ -6,17 +6,17 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "2ffjc",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "Demo 0.1",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://2ffjc.com",
 
 	// 站点描述
 	description:
-		"Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。",
+		"基于 Astro 框架和 Fuwari 模板开发，融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面。",
 
 	// 站点关键词
 	keywords: [
@@ -32,7 +32,8 @@ export const siteConfig: SiteConfig = {
 	// 主题色
 	themeColor: {
 		// 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
-		hue: 165,
+		//hue: 165,
+		hue: 204,
 		// 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
 		defaultMode: "system",
 	},
@@ -40,14 +41,14 @@ export const siteConfig: SiteConfig = {
 	// 页面整体宽度（单位：rem）
 	// 数值越大可以让页面内容区域更宽
 	// 在使用单侧栏边栏时，建议调低一些宽度以获得更好的视觉效果。
-	pageWidth: 100,
+	pageWidth: 90,
 
 	// 网站Card样式配置
 	card: {
 		// 是否开启卡片边框和阴影，开启后让网站更有立体感
-		border: false,
+		border: true,
 		// 是否让卡片风格跟随主题色相
-		followTheme: false,
+		followTheme: true,
 	},
 
 	// Favicon 配置
@@ -77,7 +78,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "2ffjc",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
@@ -89,7 +90,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	// 站点开始日期，用于统计运行天数
-	siteStartDate: "2025-01-01",
+	siteStartDate: "2026-07-27",
 
 	// 站点时区（IANA 时区字符串），用于格式化bangumi、rss里的构建日期时间等等..
 	// 示例："Asia/Shanghai", "UTC", 如果为空，则按照构建服务器的时区进行时区转换
@@ -97,16 +98,16 @@ export const siteConfig: SiteConfig = {
 
 	// 页面开关配置 - 控制特定页面的访问权限，设为false会返回404并自动隐藏对应的导航栏菜单项
 	pages: {
-		// 友链页面开关
+		// 社交-友链页面开关
 		friends: true,
 		// 打赏页面开关
-		sponsor: true,
-		// 留言板页面开关，需要配置评论系统
+		sponsor: false,
+		// 社交-留言板页面开关，需要配置评论系统
 		guestbook: true,
-		// 番组计划页面开关，含追番、游戏、书籍和音乐
+		// 我的-番组计划页面开关，含追番、游戏、书籍和音乐
 		bangumi: true,
-		// 相册页面开关
-		gallery: true,
+		// 我的-相册页面开关
+		gallery: false,
 		// 追番页面开关
 		anime: true,
 		// 动态页面开关
@@ -126,7 +127,7 @@ export const siteConfig: SiteConfig = {
 		// 移动端默认布局模式，不设置则跟随 defaultMode
 		mobileDefaultMode: "grid",
 		// 文章简介显示行数，设为 0 则不截断
-		descriptionLines: 2,
+		descriptionLines: 3,
 		// 文章卡片底部统计和发布日期是否显示图标
 		showStatsIcons: true,
 		// 标签显示位置
@@ -214,7 +215,8 @@ export const siteConfig: SiteConfig = {
 		// Bilibili 配置
 		bilibili: {
 			// 你的 Bilibili 用户 UID
-			uid: "38932988",
+			//uid: "38932988",
+			uid: "397192658",
 		},
 		// TMDB 配置（可选，需要翻墙）
 		// tmdb: {
