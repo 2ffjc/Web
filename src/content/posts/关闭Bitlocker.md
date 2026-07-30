@@ -1,8 +1,9 @@
 ---
-title: Windows 关闭Bitlocker
+title: Windows 关闭 Bitlocker
 published: 2026-07-28
 pinned: false
-description: 关闭Bitlocker
+draft: true
+description: 关闭 Bitlocker
 tags: [Windows, Bitlocker]
 category: 科技
 slug: 关闭Bitlocker
