@@ -1,6 +1,7 @@
 {
-	"name": "firefly",
-	"compatibility_date": "2025-01-01",
+	// wrangler.jsonc
+	"name": "2ffjc-blog",
+	"compatibility_date": "2026-07-27",
 	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
 		"directory": "./dist"
