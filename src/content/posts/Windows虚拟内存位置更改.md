@@ -1,6 +1,6 @@
 ---
 title: Windows 虚拟内存位置更改
-published: 2026-07-28
+published: 2026-07-29
 tags: [Windows, 虚拟内存, C盘清理]
 category: 科技
 draft: false
@@ -61,6 +61,8 @@ slug: Windows-虚拟内存位置更改
 
 4. **这里一定要重启电脑**，重启后有可能会出现下面的系统提示，可以按照以下步骤继续操作
 
+---
+
 # 遇到Win10/11虚拟内存（页面文件）转到D盘报错问题解决
 
 
@@ -99,7 +101,7 @@ HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\Memory Managemen
  
 ---
 
-我更改的最小值是10G，可以看到已提交总共的容量已经变成了31.4+10=41.4G了
+我更改的最小值是10G，可以看到“已提交”总共的容量已经变成了31.4+10=41.4G了
 
 <center class ='img'>
 <img title="设置成功任务管理器界面" src="https://s41.ax1x.com/2026/07/31/pmhgTDH.png" width="90%" alt="pmhgTDH.png" border="0" />
