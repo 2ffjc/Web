@@ -3,7 +3,7 @@ title: Windows 虚拟内存位置更改
 published: 2026-07-28
 tags: [Windows, 虚拟内存, C盘清理]
 category: 科技
-draft: true
+draft: false
 slug: Windows-虚拟内存位置更改
 ---
 
