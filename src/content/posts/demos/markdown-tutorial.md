@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Markdown 教程
 published: 1970-01-01
 pinned: false
@@ -9,7 +8,8 @@ category: 文章示例
 licenseName: "未授权"
 author: emn178
 sourceLink: "https://github.com/emn178/markdown"
-slug: markdown-tutorial
+slug: markdown-tutorial 
+draft: true
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Firefly 一款清新美观的 Astro 博客主题模板
 published: 1970-01-02
 pinned: true
@@ -8,6 +7,7 @@ tags: [Markdown, Firefly, 博客, 主题, 模板]
 category: 文章示例
 image: ./images/firefly2.avif
 slug: firefly
+draft: true
 ---
 
 ## 🌟 项目概述
