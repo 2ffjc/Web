@@ -9,10 +9,10 @@ export const siteConfig: SiteConfig = {
 	title: "2ffjc",
 
 	// 站点副标题
-	subtitle: "Demo 0.1",
+	subtitle: "Demo 0.2",
 
 	// 站点 URL
-	site_url: "https://2ffjc.com",
+	site_url: "https://blog.2ffjc.com",
 
 	// 站点描述
 	description:
