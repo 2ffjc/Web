@@ -26,7 +26,7 @@ export const friendsConfig: FriendLink[] = [
 		title: "灵烁",
 		imgurl:
 			"https://i.postimg.cc/rmvZmRTF/ling-shuo.png",
-		desc: ".",
+		desc: "灵烁的个人博客",
 		siteurl: "http://blog.xn--5nx6f.top/",
 		tags: ["Blog"],
 		weight: 2,
