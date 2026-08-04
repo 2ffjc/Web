@@ -8,7 +8,7 @@ directory = "./dist"
 NODE_VERSION = "22"
 
 [observability]
-enabled = true
+enabled = false
 head_sampling_rate = 1
 
 [observability.logs]

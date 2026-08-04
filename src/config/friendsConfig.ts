@@ -23,14 +23,24 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
+		title: "灵烁",
+		imgurl:
+			"https://i.postimg.cc/rmvZmRTF/ling-shuo.png",
+		desc: ".",
+		siteurl: "http://blog.xn--5nx6f.top/",
+		tags: ["Blog"],
+		weight: 2,
+		enabled: true,
+	},	
+	{
 		title: "夏夜流萤",
 		imgurl:
 			"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
 		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
 		siteurl: "https://blog.cuteleaf.cn",
 		tags: ["Blog"],
-		weight: 10, // 权重，数字越大排序越靠前
-		enabled: true, // 是否启用
+		weight: 1, // 权重，数字越大排序越靠前
+		enabled: false, // 是否启用
 	},
 	{
 		title: "Firefly Docs",
@@ -38,8 +48,8 @@ export const friendsConfig: FriendLink[] = [
 		desc: "Firefly主题模板文档",
 		siteurl: "https://docs-firefly.cuteleaf.cn",
 		tags: ["Docs"],
-		weight: 9,
-		enabled: true,
+		weight: 0,
+		enabled: false,
 	},
 	{
 		title: "Astro",
@@ -47,8 +57,8 @@ export const friendsConfig: FriendLink[] = [
 		desc: "The web framework for content-driven websites. ⭐️ Star to support our work!",
 		siteurl: "https://github.com/withastro/astro",
 		tags: ["Framework"],
-		weight: 8,
-		enabled: true,
+		weight: 0,
+		enabled: false,
 	},
 ];
 
