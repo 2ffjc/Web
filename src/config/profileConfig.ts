@@ -47,11 +47,11 @@ export const profileConfig: ProfileConfig = {
 		},
 
 		//这里以后可以替换成其他的
-		// {
-		// 	name: "RSS",
-		// 	icon: "fa7-solid:rss",
-		// 	url: "/rss/",
-		// 	showName: false,
-		// },
+		{
+			name: "RSS",
+			icon: "fa7-solid:rss",
+			url: "/rss/",
+			showName: false,
+		},
 	],
 };

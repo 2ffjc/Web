@@ -58,9 +58,7 @@
 
 ---
 
-
-
-:spoiler[<span style="color: #C8C8C8;">其余也就会画一点小动物；偷偷告诉你，我是一只furry。</span>]
+:spoiler[<span style="color: #C8C8C8;">会画一点小动物；偷偷告诉你，我是一只furry</span>]
 
 ---
 
@@ -70,8 +68,7 @@
 
 ## 联系我 / Contact me
 
-（这里可以链接一下）
-QQ & 邮箱：[3283739270@qq.com](https://mail.qq.com/)
+QQ & 邮箱：[3283739270@qq.com](mailto:3283739270@qq.com)
 
 GitHub：[2ffjc](https://github.com/2ffjc)
 
@@ -82,8 +79,6 @@ Twitter：[2ffjc](https://twitter.com/2ffjc)
 ## 🛠️ 关于本站
 
 这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-
 
 ---
 
