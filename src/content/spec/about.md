@@ -30,6 +30,28 @@
 
 - **\***个人认为电脑比手机可玩性更强；
 
+
+### Devices in use
+MSI:
+![](https://img.shields.io/badge/Intel_Core_Ultra_9_275HX-0068B5?style=flat-square&logo=intel&logoColor=ffffff)
+![](https://img.shields.io/badge/Samsung_DDR5_32G_5600MT%2Fs-1428A0?style=flat-square&logo=samsung&logoColor=ffffff)
+![](https://img.shields.io/badge/NVIDIA_GeForce_GTX_5070_Ti_Laptop-65a51c?style=flat-square&logo=nvidia&logoColor=ffffff)
+
+Xiaomi:
+![](https://img.shields.io/badge/Intel_Core_i5_11320H-4BB3E0?style=flat-square&logo=intel&logoColor=ffffff)
+![](https://img.shields.io/badge/Samsung_DDR4_16G_3200MT%2Fs-203094?style=flat-square&logo=samsung&logoColor=ffffff)
+![](https://img.shields.io/badge/NVIDIA_GeForce_MX450-729645?style=flat-square&logo=nvidia&logoColor=ffffff)
+
+Minecraft Server:
+![](https://img.shields.io/badge/Intel_Xeon_E5_2666_v3-1581C4?style=flat-square&logo=intel&logoColor=ffffff)
+![](https://img.shields.io/badge/Samsung_ECC_DDR3_32G_3200MT%2Fs-3C488F?style=flat-square&logo=samsung&logoColor=ffffff)
+![](https://img.shields.io/badge/NVIDIA_GeForce_GT620-788C60?style=flat-square&logo=nvidia&logoColor=ffffff)
+
+Mobile Devices:
+![](https://img.shields.io/badge/HONOR_600_Pro-1F86CF?style=flat-square&logo=honor&logoColor=ffffff)
+![](https://img.shields.io/badge/HONOR_MagicPad_2-1F86CF?style=flat-square&logo=honor&logoColor=ffffff) 
+
+
 ### Music
 
 非常喜欢听音乐，耳机不离身，主要听一些游戏原声、英文歌和音游曲
